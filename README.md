@@ -9,4 +9,4 @@ In this project we will build a model for speech to text using Python
 !pip intsall numpy #for statistics and visualisations\
 !pip intsall scipy.io #for loading audios and processing\
 !pip intsall wavfile #for loading audio\
-!pip intsall warnings\
+!pip intsall warnings
